@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">My ApplicationPeso</string>
+    <string name="textvCAL" translatable="false">Calculadora de IMC</string>
+    <string name="textvpeso" translatable="false">Peso (kg):</string>
+    <string name="textvaltura" translatable="false">Altura (m):</string>
+    <string name="buttonC" translatable="false">CALCULAR</string>
+    <string name="textvRE" translatable="false">RESULTADO</string>
+    <string name="textvER" translatable="false">El resultado de mostrara aqui</string>
+
+
+</resources>

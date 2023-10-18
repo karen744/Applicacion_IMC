@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My ApplicationPeso</string>
+    <string name="textvCAL">calculator BMI</string>
+</resources>
